@@ -43,6 +43,6 @@ BlockName-elementName--modifierName
 ```
 block-name
 block-name_modifier_name
-block-name__elemement-name
+block-name__element-name
 block-name__element-name_modifier_name
 ```
