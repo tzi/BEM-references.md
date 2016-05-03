@@ -1,18 +1,25 @@
 BEM References
 ======
 
-Websites
+International Websites
 ------
 
  * <https://www.yandex.com>, yandex
  * <http://www.theguardian.com>, inuit
  * <http://www.bbc.com>, inuit
  * <http://www.buzzfeed.com>, inuit
- * <http://www.6play.fr>, inuit
- * <http://www.lefigaro.fr> (header only for now) and <http://tvmag.lefigaro.fr/>, inuit
  * <https://www.over-blog.com>, suit
  * <https://segment.com>, suit
  * <https://twitter.com>, suit
+
+
+French Websites
+------
+
+ * <http://www.6play.fr>, inuit
+ * <http://www.lefigaro.fr> (header only for now) and <http://tvmag.lefigaro.fr/>, inuit
+ * <https://www.netalis.fr>, inuit
+
 
 Projects
 ------
