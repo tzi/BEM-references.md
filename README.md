@@ -17,7 +17,7 @@ French Websites
 ------
 
  * <http://www.6play.fr>, inuit
- * <http://www.lefigaro.fr> (header only for now) and <http://tvmag.lefigaro.fr/>, inuit
+ * <http://www.lefigaro.fr> (header only for now), <http://premium.lefigaro.fr> and <http://tvmag.lefigaro.fr/>, inuit
  * <https://www.netalis.fr>, inuit
 
 
