@@ -11,6 +11,7 @@ International Websites
  * <https://www.over-blog.com>, suit
  * <https://segment.com>, suit
  * <https://twitter.com>, suit
+ * <https://madeby.google.com/phone>, suit
 
 
 French Websites
