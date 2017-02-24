@@ -6,6 +6,7 @@ International Websites
 
  * <https://www.yandex.com>, yandex
  * <http://www.theguardian.com>, inuit
+ * <https://www.ft.com>, inuit
  * <http://www.bbc.com>, inuit
  * <http://www.buzzfeed.com>, inuit
  * <https://www.over-blog.com>, suit
